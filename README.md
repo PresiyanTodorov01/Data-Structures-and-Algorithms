@@ -4,7 +4,7 @@
 <h3>2. Алгоритми за сортиране (Bubble,Selection,Insertion, Merge, Quick, Counting)</h3>
 <h3>3. Алгоритми за търсене(Linear, Binary, Ternary Search)</h3>
 <h3>4. Свързан списък. Специфични особености. Реализации.</h3>
-<h3>5. Стек и опашка. Shunting-yard algorithm.</h3>
+<h3>5. Стек и опашка.</h3>
 <h3>6. Дървета.</h3>
 <h5>Двоично дърво.</h5>
 <h5>Балансирани дървета. 2-3-4,Red-Black, АVL, Treap</h5>
